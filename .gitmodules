@@ -1,0 +1,3 @@
+[submodule "GameSmithEngine"]
+	path = GameSmithEngine
+	url = git@github.com:Esauidk/GameSmithEngine.git
